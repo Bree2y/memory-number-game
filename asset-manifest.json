@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memory-number-game/static/css/main.de19e722.css",
+    "main.js": "/memory-number-game/static/js/main.569f02b2.js",
+    "static/js/453.ca5c8f84.chunk.js": "/memory-number-game/static/js/453.ca5c8f84.chunk.js",
+    "index.html": "/memory-number-game/index.html",
+    "main.de19e722.css.map": "/memory-number-game/static/css/main.de19e722.css.map",
+    "main.569f02b2.js.map": "/memory-number-game/static/js/main.569f02b2.js.map",
+    "453.ca5c8f84.chunk.js.map": "/memory-number-game/static/js/453.ca5c8f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de19e722.css",
+    "static/js/main.569f02b2.js"
+  ]
+}
